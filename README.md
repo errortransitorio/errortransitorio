@@ -1,6 +1,6 @@
 - 👋 Hola, soy Fernando Sánchez Herrero
 - 👀 Estoy interesado en tecnologías modernas
-- 🌱 Actualmente estoy intentando aprender programación aplicada a la IA
+- 🌱 Actualmente estoy intentando aprender programación aplicada a la IA usando el lenguaje Python
 - 💞️ Me gustaría poder colaborar en experiencias de aprendizaje de programación en IA
 - 📫 Me puedes encontrar en Linkedin https://www.linkedin.com/in/fernando-s%C3%A1nchez-herrero-5868175/ 
 
